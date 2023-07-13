@@ -1,1 +1,1 @@
-A simple e-commerce website build using nodejs and mysql 
+A simple e-commerce website built using nodejs and mysql 
